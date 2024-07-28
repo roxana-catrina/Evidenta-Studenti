@@ -1,0 +1,11 @@
+Nume:ION
+Curs:FIE Nota:9 Prezenta:0
+Curs:MC Nota:3 Prezenta:0
+Curs:mtp Nota:5 Prezenta:0
+Nume:ioana
+Curs:FIE Nota:10 Prezenta:0
+Nume:maria
+Curs:FIE Nota:2 Prezenta:0
+Curs:BD Nota:10 Prezenta:0
+Nume:roxana
+Curs:MC Nota:9 Prezenta:0
